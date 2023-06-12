@@ -83,12 +83,12 @@
 - Swagger2 3.0.0
 - ipfs 1.3.3
 - jackson 2.14.2
-- jjwt 0.11.5
+- jwt 0.11.5
 - gson 2.8.9
 
 **Smart Contract**
 
-- web3j 4.9.8
+- web3js 4.9.8
 - walletconnect_dart 0.0.11
 - truffle 4.6.17
 - ganache 2.7.0
